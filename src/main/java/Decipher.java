@@ -1,6 +1,6 @@
-//import java.util.Scanner;
-//
-//public class Decipher {
+import java.util.Scanner;
+
+public class Decipher {
 //    public static StringBuffer decrypt(String text, int shift)
 //    {
 //        StringBuffer result= new StringBuffer();
