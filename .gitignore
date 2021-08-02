@@ -35,13 +35,13 @@ Thumbs.db
 
 # Java and Gradle #
 ############
-build/
-.gradle/
+build
+build.gradle/
 out/
 out
 .gradle
 gradle
-gradlew.bat
+gradlew.bat/
 gradlew
 settings.gradle
 
