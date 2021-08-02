@@ -23,15 +23,15 @@ public class Cipher {
     }
 
 //
-//    public static void main(String[] args)
-//    {
-//        Scanner myText = new Scanner(System.in);
-//        System.out.println("Text Enter your text" );
-//        String text = myText.nextLine();
-//        System.out.println(" Enter Shift" );
-//        int shift = myText.nextInt();
-//        System.out.println("Cipher: " + encrypt(text, shift));
-//
+    public static void main(String[] args)
+    {
+        Scanner myText = new Scanner(System.in);
+        System.out.println("Text Enter your text" );
+        String text = myText.nextLine();
+        System.out.println(" Enter Shift" );
+        int shift = myText.nextInt();
+        System.out.println("Cipher: " + encrypt(text, shift));
+
 //
     }
 }
