@@ -13,10 +13,10 @@ public class Decipher {
                 result.append(ch);
             }
             else
-//            {
-//                char ch = (char)(((int)text.charAt(i) - shift - 97) % 26 + 97);
-//                result.append(ch);
-//            }
+            {
+                char ch = (char)(((int)text.charAt(i) - shift - 97) % 26 + 97);
+                result.append(ch);
+            }
         }
         return result;
     }
