@@ -22,19 +22,19 @@ public class Decipher {
     }
 //
 //
-//    public static void main(String[] args)
-//    {
-//        Scanner myText = new Scanner(System.in);
-//        System.out.println(" Enter your encrypted text" );
-//        String text = myText.nextLine();
-//        System.out.println(" Enter Shift" );
-//        int shift = myText.nextInt();
-//        System.out.println("Decipher: " +decrypt(text, shift));
-//
-//
-//    }
-//}
-//
+    public static void main(String[] args)
+    {
+        Scanner myText = new Scanner(System.in);
+        System.out.println(" Enter your encrypted text" );
+        String text = myText.nextLine();
+        System.out.println(" Enter Shift" );
+        int shift = myText.nextInt();
+        System.out.println("Decipher: " +decrypt(text, shift));
+
+
+    }
+}
+
 //
 //
 //
