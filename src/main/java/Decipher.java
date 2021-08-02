@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Decipher {
-//    public static StringBuffer decrypt(String text, int shift)
-//    {
-//        StringBuffer result= new StringBuffer();
-//
+    public static StringBuffer decrypt(String text, int shift)
+    {
+        StringBuffer result= new StringBuffer();
+
 //        for (int i=0; i<text.length(); i++)
 //        {
 //            if (Character.isUpperCase(text.charAt(i)))
