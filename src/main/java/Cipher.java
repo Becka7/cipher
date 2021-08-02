@@ -1,7 +1,7 @@
-//import java.util.Scanner;
-//public class Cipher {
-//
-//
+import java.util.Scanner;
+public class Cipher {
+
+
 //    public static StringBuffer encrypt(String text, int shift)
 //    {
 //        StringBuffer result= new StringBuffer();
@@ -33,7 +33,7 @@
 //        System.out.println("Cipher: " + encrypt(text, shift));
 //
 //
-//    }
-//}
+    }
+}
 
 
